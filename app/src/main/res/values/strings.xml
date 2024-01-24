@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Character App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status_alive">Status: Alive</string>
+    <string name="character_name">Character Name</string>
+    <string name="characters">Characters</string>
+    <string name="name">NAME</string>
+    <string name="alive">  Alive</string>
+    <string name="status">STATUS</string>
+    <string name="arif">  Arif</string>
+
+</resources>
